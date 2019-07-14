@@ -454,8 +454,8 @@ Height: 6
 Leaves: 6
 Please enter a name to search for.
 Chris
-You entered: Chris
-The weight is: 175
+You entered: Jason
+The weight is: 182
 Lowest Weight:
 Annabelle, 99
 The first name in alphebetical order is: Abe
