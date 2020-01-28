@@ -1,4 +1,4 @@
-// Krista Ghazaleh
+// Elle Grace Jen
 // CS-41-61730
 // Lab 8-Binary Search Algorithm
 // 2/24/19
