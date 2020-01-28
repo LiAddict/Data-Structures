@@ -1,4 +1,4 @@
-//; Krista Ghazaleh
+//; Elle Grace Jen
 //; CS-41-61730
 //; Program 1 - RPC with LL-based Stack
 //; 2/17/2019
