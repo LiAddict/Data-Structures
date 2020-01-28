@@ -1,4 +1,4 @@
-//; Krista Ghazaleh
+//; Elle Grace Jen
 //; CS-41-61730
 //; BinaryTreeLab - including both print and traversals
 //; 3/17/2019
