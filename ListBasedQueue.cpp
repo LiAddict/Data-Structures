@@ -1,4 +1,4 @@
-// Krista Ghazaleh
+// Elle Grace Jen
 // CS-41-61730
 // List Based Queue
 // 4/21/2019
