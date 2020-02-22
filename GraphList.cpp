@@ -1,7 +1,3 @@
-// Elle Grace Jen
-// CS-41-61730
-// Graph List
-// 4/14/2019
 #include<iostream>
 using namespace std;
 
