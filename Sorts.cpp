@@ -1,8 +1,3 @@
-// Elle Grace Jen
-// CS-41-61730
-// Lab 7-Sort
-// 2/24/2019
-
 #include "pch.h"
 #include <iostream>
 using namespace std;
