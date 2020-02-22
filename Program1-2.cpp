@@ -1,7 +1,3 @@
-//; Elle Grace Jen
-//; CS-41-61730
-//; Program 1 - RPC with LL-based Stack
-//; 2/17/2019
 #include "pch.h"
 #include <iostream>
 #include <cstdio>
