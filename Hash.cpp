@@ -1,7 +1,3 @@
-// Elle Grace Jen
-// CS-41-61730
-// Assignment 4 - Hash
-// 5/12/2019
 #include<iostream>
 #include<sstream>
 #include<cmath>
