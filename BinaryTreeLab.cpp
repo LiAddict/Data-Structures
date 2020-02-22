@@ -1,7 +1,3 @@
-//; Elle Grace Jen
-//; CS-41-61730
-//; BinaryTreeLab - including both print and traversals
-//; 3/17/2019
 #include "pch.h"
 #include <iostream>
 #include <cstdlib> 
