@@ -1,8 +1,3 @@
-//; Elle Grace Jen
-//; CS-41-61730
-//; Program 3
-//; 4/7/2019
-
 #include "pch.h"
 #include <iostream>
 #include <sstream>
