@@ -1,7 +1,3 @@
-// Elle Grace Jen
-// CS-41-61730
-// Min Heap
-// 4/28/2019
 #include <iostream>
 #include <cstdlib> 
 #include <sstream>
